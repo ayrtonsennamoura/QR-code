@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+
+section {
+  padding-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgray;
+
+}
+
+div{
+  padding: 15px;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: white;
+  border-radius: 5%;
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  padding: 15px;
+  border-radius: 50% 0;
+}
+
+h2 {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  font-weight: 400;
+  color:hsl(220, 15%, 55%);
+}
+
